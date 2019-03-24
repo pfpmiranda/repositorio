@@ -1,5 +1,5 @@
 <?PHP
 
-	echo "Teste Git!!";
+	echo "Teste Script Paulo!!";
 
 ?>

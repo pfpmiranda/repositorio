@@ -1,5 +1,5 @@
 <?PHP
 
-	echo "Teste Script Paulo!!";
+	echo "Teste Script Paulo 3!!";
 
 ?>
